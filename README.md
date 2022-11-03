@@ -5,10 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadeu-nascimento-330b0a198)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xossy&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xossy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/xossy">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xossy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xossy&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
